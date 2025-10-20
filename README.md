@@ -16,11 +16,6 @@ It fetches real-time weather data from the **OpenWeatherMap API**.
 - HTML  
 - CSS  
 - JavaScript (Fetch API)  
-- OpenWeatherMap API
-
-
-3. Get your free API key from [OpenWeatherMap](https://openweathermap.org/).
-4. Open `index.html` in your browser.
 
 
 
