@@ -1,6 +1,6 @@
 # 🌦 Weather App
 
-A simple web-based weather app built using *HTML, CSS,Angular, and JavaScript*.  
+A simple web-based weather app built using *HTML, CSS, and JavaScript*.  
 It fetches real-time weather data from the *OpenWeatherMap API*.
 
 ## 🚀 Features
